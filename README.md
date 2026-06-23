@@ -34,7 +34,7 @@ Passionate about building scalable web applications, solving real-world problems
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### Tools & Platforms
