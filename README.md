@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Madhu Ranjan</h1>
+<h1 align="center">Hi 👋, I'm Madhuranjan Kumar</h1>
 <h3 align="center">Full Stack Developer | Java Full Stack | MERN Stack Developer</h3>
 
 <p align="center">
