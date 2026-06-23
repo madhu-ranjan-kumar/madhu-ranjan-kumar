@@ -119,7 +119,7 @@ Passionate about building scalable web applications, solving real-world problems
 
 📧 Email: madhuranjan473@gmail.com
 
-💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/madhuranjan-kumar76/)
+💼 LinkedIn: [madhuranjan-kumar](https://www.linkedin.com/in/madhuranjan-kumar76/)
 
 🌐 Portfolio: your-portfolio-link
 
